@@ -1,0 +1,53 @@
+AllCops:
+  Exclude:
+    - 'Guardfile'
+    - 'Rakefile'
+    - 'vendor/**/*'
+    - 'cookbooks/**/*'
+    - 'bin/**/*'
+
+AsciiComments:
+  Enabled: false
+
+ClassAndModuleChildren:
+  Enabled: false
+
+AccessorMethodName:
+  Enabled: false
+
+AlignParameters:
+  Enabled: false
+
+BlockNesting:
+  Max: 5
+
+Encoding:
+  Enabled: false
+
+ClassLength:
+  Enabled: false
+
+MethodLength:
+  Enabled: false
+
+ParameterLists:
+  Max: 12
+
+LineLength:
+  Enabled: false
+
+Style/DoubleNegation:
+  Enabled: false
+
+Documentation:
+  Enabled: false
+
+PerceivedComplexity:
+  Enabled: false
+
+CyclomaticComplexity:
+  Enabled: false
+
+PerceivedComplexity:
+  Enabled: false
+
