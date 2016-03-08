@@ -1,0 +1,7 @@
+name             'munin'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures munin'
+long_description 'Installs/Configures munin'
+version          '0.1.0'
